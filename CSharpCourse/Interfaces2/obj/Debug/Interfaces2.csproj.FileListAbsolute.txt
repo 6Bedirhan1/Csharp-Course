@@ -1,0 +1,8 @@
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\Interfaces2\bin\Debug\Interfaces2.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\Interfaces2\bin\Debug\Interfaces2.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\Interfaces2\bin\Debug\Interfaces2.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\Interfaces2\obj\Debug\Interfaces2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\Interfaces2\obj\Debug\Interfaces2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\Interfaces2\obj\Debug\Interfaces2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\Interfaces2\obj\Debug\Interfaces2.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\Interfaces2\obj\Debug\Interfaces2.pdb

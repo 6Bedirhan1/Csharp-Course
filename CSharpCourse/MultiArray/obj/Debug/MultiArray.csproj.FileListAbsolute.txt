@@ -1,0 +1,8 @@
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\MultiArray\bin\Debug\MultiArray.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\MultiArray\bin\Debug\MultiArray.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\MultiArray\bin\Debug\MultiArray.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\MultiArray\obj\Debug\MultiArray.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\MultiArray\obj\Debug\MultiArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\MultiArray\obj\Debug\MultiArray.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\MultiArray\obj\Debug\MultiArray.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\MultiArray\obj\Debug\MultiArray.pdb

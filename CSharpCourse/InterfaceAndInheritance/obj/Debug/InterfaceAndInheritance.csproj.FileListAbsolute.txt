@@ -1,0 +1,8 @@
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\InterfaceAndInheritance\bin\Debug\InterfaceAndInheritance.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\InterfaceAndInheritance\bin\Debug\InterfaceAndInheritance.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\InterfaceAndInheritance\bin\Debug\InterfaceAndInheritance.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\InterfaceAndInheritance\obj\Debug\InterfaceAndInheritance.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\InterfaceAndInheritance\obj\Debug\InterfaceAndInheritance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\InterfaceAndInheritance\obj\Debug\InterfaceAndInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\InterfaceAndInheritance\obj\Debug\InterfaceAndInheritance.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\InterfaceAndInheritance\obj\Debug\InterfaceAndInheritance.pdb

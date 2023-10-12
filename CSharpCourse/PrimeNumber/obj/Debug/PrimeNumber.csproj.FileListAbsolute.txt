@@ -1,0 +1,8 @@
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\PrimeNumber\bin\Debug\PrimeNumber.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\PrimeNumber\bin\Debug\PrimeNumber.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\PrimeNumber\obj\Debug\PrimeNumber.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\PrimeNumber\obj\Debug\PrimeNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\PrimeNumber\obj\Debug\PrimeNumber.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\PrimeNumber\obj\Debug\PrimeNumber.pdb

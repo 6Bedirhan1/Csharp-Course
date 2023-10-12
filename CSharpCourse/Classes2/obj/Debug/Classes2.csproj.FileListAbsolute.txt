@@ -1,0 +1,8 @@
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\Classes2\bin\Debug\Classes2.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\Classes2\bin\Debug\Classes2.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\Classes2\bin\Debug\Classes2.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\Classes2\obj\Debug\Classes2.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\Classes2\obj\Debug\Classes2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\Classes2\obj\Debug\Classes2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\Classes2\obj\Debug\Classes2.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\Classes2\obj\Debug\Classes2.pdb

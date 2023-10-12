@@ -1,0 +1,8 @@
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\GenelTekrar\bin\Debug\GenelTekrar.exe.config
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\GenelTekrar\bin\Debug\GenelTekrar.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\GenelTekrar\bin\Debug\GenelTekrar.pdb
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\GenelTekrar\obj\Debug\GenelTekrar.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\GenelTekrar\obj\Debug\GenelTekrar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\GenelTekrar\obj\Debug\GenelTekrar.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\GenelTekrar\obj\Debug\GenelTekrar.exe
+C:\Users\Lenovo\OneDrive\Masaüstü\C#\CSharpCourse\GenelTekrar\obj\Debug\GenelTekrar.pdb
